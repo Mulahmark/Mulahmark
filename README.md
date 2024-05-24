@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hoseapraise1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoseapraise1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praise mulanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praise mulanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praise-mulanda-3b69a6281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praise mulanda" height="30" width="40" /></a>
 <a href="https://fb.com/__mulanda__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__mulanda__" height="30" width="40" /></a>
 <a href="https://instagram.com/__mulanda__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mulanda__" height="30" width="40" /></a>
 <a href="https://discord.gg/Elastic_wish9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elastic_wish9" height="30" width="40" /></a>
